@@ -6,4 +6,4 @@
 
 # Back-end code
 
-- [E-commerce Backend-end](https://github.com/Vedant-Manjrekar/E-commerce-backend)
+- [E-commerce Back-end](https://github.com/Vedant-Manjrekar/E-commerce-backend)
